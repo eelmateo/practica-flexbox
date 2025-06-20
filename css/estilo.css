@@ -1,0 +1,12 @@
+main{
+    background-color: blueviolet;
+    padding: 40px 20 px;
+}
+
+section{
+    background-color: red;
+    /* padding: 30p; */
+    padding: 20px 10px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
